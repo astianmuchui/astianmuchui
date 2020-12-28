@@ -14,7 +14,7 @@
   
   #Did you know?
   
-  $knowledge = "If you get the contents of a pdf file via php, You can actually search for it via strpos();
+  $knowledge = "If you get the contents of a pdf file via php, You can actually search for words in it via strpos();
   
   if($knowledge === true){
   

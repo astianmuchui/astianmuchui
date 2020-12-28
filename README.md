@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**IAstian/IAstian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  include '../sebAstian';
+  $name = 'Seb Astian';
+  $email = 'astianseb730@gmail.com';
+  $project = 'smsApi'; 
+  $favLanguages =['python','php','javascript']; 
+  $contribution = mail($email,"Hi there","Id like to contribute");
+  $favQuote = "Decide what to be and go be it";
+      #Did you know?
+  $knowledge = "If you get the contents of a pdf file via php, You can actually search for it via strpos();
+  if($knowledge === true){
+  echo "sucess";
+}else{
+  return "false";
+}
+//Actually variables can be concatenated in urls too, e.g making a whatsapp chat box

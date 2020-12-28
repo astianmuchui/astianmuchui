@@ -1,10 +1,12 @@
+  💎💎💎💎💎💎
+  
   include '../sebAstian';
   
   $name = 'Seb Astian';
   
   $email = 'astianseb730@gmail.com';
   
-  $project = 'smsApi'; 
+  💻$project = 'smsApi'; 
   
   $favLanguages =['python','php','javascript']; 
   
@@ -30,3 +32,4 @@ return false;
 
 #run this as a php file. You will get error on line 11
 
+💎💎💎💎💎💎💎💎

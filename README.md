@@ -1,5 +1,6 @@
   💎💎💎💎💎💎
   
+  '''php
   include '../sebAstian';
   
   $name = 'Seb Astian';
@@ -31,5 +32,6 @@ return false;
 //Actually variables can be concatenated in urls too, e.g making a whatsapp chat box
 
 #run this as a php file. You will get error on line 11
+'''
 
 💎💎💎💎💎💎💎💎

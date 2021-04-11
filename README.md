@@ -1,6 +1,1 @@
-![pexels-jiarong-deng-1034662](https://user-images.githubusercontent.com/67919419/114311885-40d27280-9af9-11eb-8d7b-3d2e84ff88c2.jpg)
-  
-  <?php
-    $status = "Fired up";
-  
-  ?>
+![abstract-1278077_1920](https://user-images.githubusercontent.com/67919419/114312149-4e3c2c80-9afa-11eb-9e27-cd92f0221589.jpg)

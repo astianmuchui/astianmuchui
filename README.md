@@ -1,1 +1,1 @@
-"I can judge a book by its cover because am not stupid enough to read that book"
+"The word 'do not take this seriously' has a zero percent success rate"

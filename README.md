@@ -1,1 +1,1 @@
-The term, "do not take this the wrong way" has a zero percent success rate
+"Assume a spherical cow of uniform density while ignoring the effects of gravity in a vacuum and that its breathing.

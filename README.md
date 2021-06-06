@@ -1,1 +1,1 @@
-The limits of human potential are yet to be discovered
+When its not time for joking, there's a hole in the plan

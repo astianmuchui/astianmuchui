@@ -1,1 +1,1 @@
-Yowie wowie
+Fitt's law

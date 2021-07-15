@@ -1,1 +1,1 @@
-fitt's law 🦾
+🦾 fitt's law

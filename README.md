@@ -1,1 +1,1 @@
-This is my life and i call it a song
+You cannot kill what won't die

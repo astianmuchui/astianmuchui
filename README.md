@@ -1,6 +1,12 @@
 #include<iostream>
+	
+	
 using namespace seb;
+	
+	
 int main(){
+	
+	
 	string name = "sebastian";
 	
 	

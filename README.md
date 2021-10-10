@@ -1,2 +1,2 @@
 
-Think ,try, test. repeat
+Think , try , test . repeat

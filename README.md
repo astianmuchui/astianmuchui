@@ -1,1 +1,2 @@
-The most valuable thing you can make is a mistake - you can't learn anything from being perfect.
+
+The harder it is to follow something and the more it takes to reach it, the more you beleive that what you're going after is real

@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace seb;
+using namespace std;
 int main(){
 	string name = "sebastian";
 	char email = "7iastian@gmail.com";
@@ -9,7 +9,7 @@ int main(){
 	string Favmeme = "Assume a spherical cow of uniform density while ignoring the effects of gravity in a vacuum";
 	bool iamcool = true;
 	bool iamsocial = false;
-	bool im_a_nerd = true;
+	
 	string favProject = 'Talkit';
 	string nickname = NULL;
         string motivation = "When all else fails assume a spherical cow in a vacuum";

@@ -13,5 +13,5 @@ int main(){
 	string favProject = 'Talkit';
 	string nickname = NULL;
         string motivation = "When all else fails assume a spherical cow in a vacuum";
-	
+	return 0;
 }

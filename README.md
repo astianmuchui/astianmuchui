@@ -1,5 +1,5 @@
 
-Embrace the headache
+Embrace the headaches
 
 
 ![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=merko)

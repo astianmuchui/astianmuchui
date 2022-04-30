@@ -1,17 +1,17 @@
 
 	#include<iostream>
-		using namespace seb;
-		int main(){
-		string name = "sebastian";
-		char email = "7iastian@gmail.com";
-		string favLanguages = {'Javascript','python','php','c++'};
-		string location = "254";
-		string exact_location = "254.012";
-		bool iamcool = true;
-		string favProject = 'Talkit';
-		string nickname = NULL;
-		string motivation = "When all else fails assume a spherical cow in a vacuum";
-		return 0;
+	    using namespace seb;
+	        int main(){
+		  string name = "sebastian";
+		  char email = "7iastian@gmail.com";
+		  string favLanguages = {'Javascript','python','php','c++'};
+		  string location = "254";
+		  string exact_location = "254.012";
+		  bool iamcool = true;
+		  string favProject = 'Talkit';
+		  string nickname = NULL;
+		  string motivation = "When all else fails assume a spherical cow in a vacuum";
+		  return 0;
 	}
 
 

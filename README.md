@@ -1,6 +1,7 @@
 
 #include<iostream>
 using namespace seb;
+	
 int main(){
 	string name = "sebastian";
 	char email = "7iastian@gmail.com";

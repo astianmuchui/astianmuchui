@@ -8,7 +8,6 @@
 		string location = "254";
 		string exact_location = "254.012";
 		bool iamcool = true;
-		bool iamsocial = false;
 		string favProject = 'Talkit';
 		string nickname = NULL;
 		string motivation = "When all else fails assume a spherical cow in a vacuum";

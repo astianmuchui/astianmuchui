@@ -1,7 +1,7 @@
 
-#include<iostream>
-using namespace std;
-int main(){
+	#include<iostream>
+	using namespace std;
+	int main(){
 	string name = "sebastian";
 	char email = "7iastian@gmail.com";
 	string favLanguages = {'Javascript','python','php','c++'};

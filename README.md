@@ -16,13 +16,13 @@ astianmuchui@github:~ $ defineme
 ### Let's Interact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14483975/seb-astian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 
-<!-- ![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=14&hide_border=true)](https://github.com/astianmuchui/github-readme-stats) -->
+
+
 
 <table>
   <tr>
-    <td><img src="https://github.com/astianmuchui/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /></td>
-    <td><img src="https://github.com/astianmuchui/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></td>
+  <td>![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true)</td>
+   <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=14&hide_border=true)](https://github.com/astianmuchui/github-readme-stats)</td>
   </tr>
 </table>
 

@@ -9,3 +9,7 @@
 
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=true)
+
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=oldie&no-frame=true&no-bg=true&margin-w=4)

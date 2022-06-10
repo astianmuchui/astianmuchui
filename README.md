@@ -1,4 +1,7 @@
 ### Hi, I'm sebastian !
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+
 ```cli
 astianmuchui@github:~ $ defineme
  - Full stack web developer
@@ -21,6 +24,5 @@ astianmuchui@github:~ $ defineme
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=12)](https://github.com/astianmuchui/github-readme-stats)
 
  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
 

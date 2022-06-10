@@ -19,12 +19,9 @@ astianmuchui@github:~ $ defineme
 
 
 
-<table>
-  <tr>
-  <td> ![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true) </td>
-<!--    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=14&hide_border=true)](https://github.com/astianmuchui/github-readme-stats) </td> -->
-  </tr>
-</table>
+   ![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true) 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=14&hide_border=true)](https://github.com/astianmuchui/github-readme-stats) 
+  
 
 ### Let's see how long this streak can last
 ![](https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=true)

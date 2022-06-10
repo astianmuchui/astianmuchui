@@ -1,6 +1,5 @@
 ### Hi, I'm sebastian !
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
 ```cli
 astianmuchui@github:~ $ defineme
@@ -13,6 +12,7 @@ astianmuchui@github:~ $ defineme
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=merko&no-frame=true&no-bg=true&margin-w=4)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
 ### Let's Interact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14483975/seb-astian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
@@ -24,5 +24,4 @@ astianmuchui@github:~ $ defineme
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=12)](https://github.com/astianmuchui/github-readme-stats)
 
  
-
 

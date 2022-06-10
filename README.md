@@ -21,8 +21,8 @@ astianmuchui@github:~ $ defineme
 
 <table>
   <tr>
-  <td>![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true)</td>
-   <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=14&hide_border=true)](https://github.com/astianmuchui/github-readme-stats)</td>
+  <td> ![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true) </td>
+   <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=14&hide_border=true)](https://github.com/astianmuchui/github-readme-stats) </td>
   </tr>
 </table>
 

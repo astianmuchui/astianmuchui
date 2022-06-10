@@ -1,4 +1,4 @@
-### Hi, I'm sebastian !
+###  I'm sebastian 
 
 
 ```cli
@@ -7,7 +7,7 @@ astianmuchui@github:~ $ defineme
  - Software developer
  - Learning Arduino and raspberry pi
  - specializes in php and python 
- - Enthusiastic about cybersecurity, robotics and AI
+ - Interested in cybersecurity, robotics and AI
 ```
 
 ## 🏆GitHub Trophies

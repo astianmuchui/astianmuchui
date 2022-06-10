@@ -1,4 +1,7 @@
-#### Sit , code , inspire
+### Hi, I'm sebastian !
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/astianmuchui/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14483975/seb-astian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
+
 
 ![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight)
 

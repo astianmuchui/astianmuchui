@@ -21,8 +21,8 @@ astianmuchui@github:~ $ defineme
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/WilliamOtieno/github-stats/master/generated/overview.svg" /></td>
-    <td><img src="https://github.com/WilliamOtieno/github-stats/blob/master/generated/languages.svg"/></td>
+    <td><img src="https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/overview.svg?theme=tokyodark&hide_border=true" /></td>
+    <td><img src="https://github.com/astianmuchui/github-stats/blob/master/generated/languages.svg?theme=tokyodark&hide_border=true"/></td>
   </tr>
 </table>
 

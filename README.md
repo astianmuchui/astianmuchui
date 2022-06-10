@@ -13,4 +13,4 @@
 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=merko&no-frame=true&no-bg=true&margin-w=4)

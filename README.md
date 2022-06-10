@@ -1,3 +1,5 @@
 #### Sit , code , inspire
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight)
+![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

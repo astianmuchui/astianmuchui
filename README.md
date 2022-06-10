@@ -4,5 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=12)](https://github.com/astianmuchui/github-readme-stats)
 
-[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui)](https://github.com/astianmuchui/github-readme-stats)
  

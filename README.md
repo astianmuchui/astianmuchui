@@ -2,12 +2,12 @@
 
 
 ```cli
-astianmuchui@github:~ $ defineme
+astian:~$ defineme:
  - Full stack web developer
  - Software developer
  - Learning Arduino and raspberry pi
  - specializes in php and python 
- - Interested in cybersecurity, robotics and AI
+ - cybersecurity & robotics enthusiast
 ```
 
 ## 🏆GitHub Trophies

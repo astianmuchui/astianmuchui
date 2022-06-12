@@ -21,9 +21,15 @@ astianmuchui@github:~ $ defineme
 
 
 
-   ![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true) 
+
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=14&hide_border=true)](https://github.com/astianmuchui/github-readme-stats) 
-  
+  <table>
+ <tr>
+     <td>
+          ![Sebastian M's](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true) 
+  </td>
+ </tr>
+</table>
   ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
   ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 

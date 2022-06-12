@@ -22,7 +22,7 @@ astian:~$ defineme:
   <tr>
 
    <td><img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=14&hide_border=true)](https://github.com/astianmuchui/github-readme-stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=12&hide_border=true)](https://github.com/astianmuchui/github-readme-stats"/></td>
    
   </tr>
 </table>

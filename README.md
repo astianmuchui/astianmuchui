@@ -6,7 +6,7 @@ astian:~$ defineme:
  - Full stack web developer
  - Software developer
  - Learning Arduino and raspberry pi
- - specializes in php and python 
+ - specializes in .php & 0.py
 ```
 
 ## 🏆GitHub Trophies

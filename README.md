@@ -2,11 +2,11 @@
 
 
 ```cli
-astian:~$ defineme:
- - Full stack web developer
- - Software developer
- - Learning Arduino and raspberry pi
- - specializes in .php & .py
+$ defineme:
+  Full stack web developer
+  Software developer
+  Learning Arduino 
+  specializes in .php & .py
 ```
 
 ## 🏆GitHub Trophies

@@ -1,11 +1,4 @@
-#### S'sup
-```cli
-$ defineme:
-  Full stack web developer
-  Software developer
-  Learning Arduino 
-  specializes in .php & .py
-```
+### Eat, Sleep , Conquer the script
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=0e75b6&style=flat" alt="astianmuchui" /> </p>
 

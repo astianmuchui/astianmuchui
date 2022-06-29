@@ -11,6 +11,11 @@
 
 
    <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=merko&hide_border=true" /></div>
+   <table>
+    <tr>
+    <img src="https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=1f6fea&line=2fa4e7&point=fff000&color=2fa4e7&hide_border=true">
+  </tr>
+  </table>
  <table>
   <tr>
 

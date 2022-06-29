@@ -18,16 +18,18 @@
       </td>
 
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=merko&langs_count=12&hide_border=true)](https://github.com/astianmuchui/github-readme-stats"/></td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=merko&langs_count=12&hide_border=true)](https://github.com/astianmuchui/github-readme-stats"/>
+      </td>
   </tr>
   </table>
  <table>
   <tr>
 
-   <td><img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=merko&hide_border=true" /></td>
+   <td>
+     <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=merko&hide_border=true" />
+    </td>
           <td>
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=merko&hide_border=true" />
-        
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=merko&hide_border=true" />    
       </td>
    
   </tr>

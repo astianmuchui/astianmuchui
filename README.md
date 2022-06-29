@@ -17,9 +17,6 @@
       <img src="https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=1f6fea&line=2fa4e7&point=fff000&color=2fa4e7&hide_border=true">
       </td>
 
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=merko&langs_count=12&hide_border=true)](https://github.com/astianmuchui/github-readme-stats"/>
-      </td>
   </tr>
   </table>
  <table>

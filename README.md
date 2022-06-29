@@ -10,12 +10,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14483975/seb-astian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 
 
-   <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=true" /></div>
+   <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=merko&hide_border=true" /></div>
  <table>
   <tr>
 
-   <td><img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=tokyonight&langs_count=12&hide_border=true)](https://github.com/astianmuchui/github-readme-stats"/></td>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=merko&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=merko&langs_count=12&hide_border=true)](https://github.com/astianmuchui/github-readme-stats"/></td>
    
   </tr>
 </table>

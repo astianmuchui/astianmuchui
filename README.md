@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=0e75b6&style=flat" alt="astianmuchui" /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=merko&no-frame=true&no-bg=true&margin-w=3)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=0030a&area_color=1f6fea&line=2fa4e7&point=fff000&color=2fa4e7&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=1f6fea&line=2fa4e7&point=fff000&color=2fa4e7&hide_border=true)
 
 
 ##### Lets chat

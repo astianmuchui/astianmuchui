@@ -4,7 +4,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=merko&no-frame=true&no-bg=true&margin-w=3&color=fff)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=fffarea_color=2fa4e7&line=2fa4e7&point=fff000&color=2fa4e7&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=fffarea_color=2fa4e7&line=2fa4e7&point=2fa4e7&color=2fa4e7&hide_border=true)
 
 
 ##### Lets chat

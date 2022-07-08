@@ -14,7 +14,7 @@
    <table>
     <tr>
       <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=2fa4e7&line=2fa4e7&point=2fa4e7&color=2fa4e7&hide_border=true">
+      <img src="https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=2fa4e7&line=2fa4e7&point=none&color=2fa4e7&hide_border=true">
       </td>
 
   </tr>

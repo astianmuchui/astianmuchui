@@ -14,7 +14,7 @@
 
 ##### Github Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=github_dark&no-frame=true&no-bg=true&margin-w=3&color=fff)
+![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=3&color=fff)
 
 
 

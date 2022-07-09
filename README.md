@@ -30,10 +30,10 @@
   <tr>
 
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=gruvbox&hide_border=true" />
+     <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=github_dark&hide_border=true" />
     </td>
           <td>
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=gruvbox&hide_border=true" />    
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github_dark&hide_border=true" />    
       </td>
    
   </tr>

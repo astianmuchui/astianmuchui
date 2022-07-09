@@ -1,6 +1,6 @@
 ##### Eat, Sleep , Conquer the script
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=09913d&style=flat" alt="astianmuchui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
 <table>
   <tr>
 
@@ -14,7 +14,7 @@
 
 ##### Github Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=3&color=fff)
+![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=sythwave&no-frame=true&no-bg=true&margin-w=3&color=fff)
 
 
 

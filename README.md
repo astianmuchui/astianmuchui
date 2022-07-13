@@ -1,5 +1,6 @@
 ##### 
   <h5 style="color: #2fa4e7;"> Eat, Sleep , Conquer the script </h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
   
   
  <table>
@@ -14,8 +15,10 @@
    
   </tr>
 </table>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
+
+ ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
+ 
 <table>
   <tr>
 

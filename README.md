@@ -4,23 +4,30 @@
   
   
   
- ![](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
- ![](https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github-dark&hide_border=true&count_private=true)
+<table>
+  <tr>
+
+   <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github-dark&hide_border=true&count_private=true">
+     
+</td>
+   
+  </tr>
+  <tr>
+    <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+    </td>
+  
+  </tr>
+</table>
+  
 
  
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
  
-<table>
-  <tr>
-
-   <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=2fa4e7&line=2fa4e7&point=none&color=2fa4e7&hide_border=true">
-     
-</td>
-   
-  </tr>
-</table>
+ 
+ ![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=2fa4e7&line=2fa4e7&point=none&color=2fa4e7&hide_border=true)  
 
 ##### Github Trophies
 

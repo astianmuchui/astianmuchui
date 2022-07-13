@@ -3,19 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
   
   
- <table>
-  <tr>
+  
+ ![](https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github-dark&hide_border=true&count_private=true)
 
-   <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-    </td>
-          <td>
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github-dark&hide_border=true&count_private=true" />    
-      </td>
-   
-  </tr>
-</table>
-
+ 
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
  

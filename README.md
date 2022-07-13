@@ -1,13 +1,13 @@
 ##### 
-  <h5 style="color: #2fa4e7;"> Eat, Sleep , Conquer the script </h5>
+  <h4 style="color: #2fa4e7;"> Eat, Sleep , Conquer the script </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
   
   
   
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github-dark&hide_border=true&count_private=true">
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github-dark&hide_border=true&count_private=true">
      
-   <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
- 
   
 
  

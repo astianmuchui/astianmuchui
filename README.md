@@ -1,5 +1,6 @@
 ##### 
-  <h4 style="color: #2fa4e7;"> Eat, Sleep , Conquer the script </h4>
+  <h4 style="color: #2fa4e7;"> Knowing isn't enough, we must apply. Being willing isn't enough , we must do
+ </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
   
   

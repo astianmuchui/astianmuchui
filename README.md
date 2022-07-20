@@ -26,7 +26,7 @@
    
 ![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=eb5534&line=eb5534&point=none&color=eb5534&hide_border=true)  
 
-   ```
+   ```shell
     Did you know? There are 2 types of people , those who know hexadecimal and 15 others
    ```
   
@@ -50,7 +50,9 @@
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
  
  
-
+```cli
+ Impossible is not a scientific term ,  
+```
 ##### Github Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=darkhub&no-frame=true&no-bg=true&margin-w=3&color=fff)
@@ -61,6 +63,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14483975/seb-astian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 
-## Quote
+#### Quote
 - Knowing isn't enough, we must apply. Being willing isn't enough , we must do ~ Leonardo Da vinci
 

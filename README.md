@@ -20,6 +20,9 @@
       bool WantsToCollaborate = true;
     }
    ```
+   
+![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=2fa4e7&line=eb5534&point=none&color=eb5534&hide_border=true)  
+
    ```
     Did you know? There are 2 types of people , those who know hexadecimal and 15 others
    ```
@@ -41,7 +44,6 @@
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
  
  
- ![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=2fa4e7&line=2fa4e7&point=none&color=2fa4e7&hide_border=true)  
 
 ##### Github Trophies
 

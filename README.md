@@ -3,13 +3,36 @@
  </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
   
-  
+  ```c++
+    #include <Astian.h>
+    #include <iostream>
+    using namespace seb;
+    int main(){
+      bool cool = false;
+      char email = "sebastianmuchui79@gmail.com";
+      string favlanguages[4] = {"C","C++","PHP","Python"};
+      bool hobbyist = true;
+      string favProjects[5] = {"Talkit","MD-1507","Robocar","Obstacle-avoider","audConv"};
+      string joke = "What is the object oriented way of getting rich? Inheritance";
+      string location = "Kenya";
+      bool WantsToCollaborate = true;
+    }
+   ```
+   ```
+    Did you know? There are 2 types of people , those who know hexadecimal and 15 others
+   ```
   
    
-  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=merko&hide_border=true&count_private=true">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=merko&hide_border=true&count_private=true">
+
+
      
   
+  <table>
+    <tr>
+      <td>  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=merko&hide_border=true&count_private=true"></td>
+      <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=merko&hide_border=true&count_private=true"></td>
+    </tr>
+  </table>
 
  
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)

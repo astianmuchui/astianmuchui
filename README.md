@@ -42,7 +42,7 @@
     </tr>
   </table>
   
-   ```cli
+   ```shell
      Is it good? Not for me to say. Can it be better? Sure , it can be better , And thats my job , to make it better .
    ```
  
@@ -50,7 +50,7 @@
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
  
  
-```py
+```shell
  Impossible is not a scientific term 
 ```
 ##### Github Trophies

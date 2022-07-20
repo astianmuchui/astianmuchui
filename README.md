@@ -1,6 +1,6 @@
 
  ```bash
-  ~$ sudo apt-get sebastian 
+  ~$ Sebastian Muchui
  ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
   

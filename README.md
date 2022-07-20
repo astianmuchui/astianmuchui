@@ -2,7 +2,7 @@
  ```bash
    astian@astian: ~$ sudo apt-get upgrade
  ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
   
   ```c++
     #include <Astian.h>
@@ -20,7 +20,7 @@
     }
    ```
    
-![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=2fa4e7&line=eb5534&point=none&color=eb5534&hide_border=true)  
+![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=eb5534&line=eb5534&point=none&color=eb5534&hide_border=true)  
 
    ```
     Did you know? There are 2 types of people , those who know hexadecimal and 15 others

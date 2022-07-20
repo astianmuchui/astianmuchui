@@ -1,6 +1,8 @@
 
  ```shell
    astian@astian: ~$ sudo apt-get upgrade
+   astian@astian: ~$ about me 
+    - I do a little bit of this and a little bit of that
  ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
   

@@ -1,5 +1,5 @@
 
- ```bash
+ ```shell
    astian@astian: ~$ sudo apt-get upgrade
  ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
@@ -37,7 +37,10 @@
       <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=merko&hide_border=true&count_private=true"></td>
     </tr>
   </table>
-
+  
+   ```
+     Is it good? Not for me to say. Can it be better? Sure , it can be better , And thats my job , to make it better .
+   ```
  
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)

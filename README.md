@@ -47,13 +47,6 @@
   
 
   
-   <table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@astianmuchui/67ed35c2-b51b-4de8-b1e8-bd217fe22083.png" /></td>
-  
-  </tr>   
-</table>
-  
    ```shell
      Is it good? Not for me to say. Can it be better? Sure , it can be better , And thats my job , to make it better .
    ```

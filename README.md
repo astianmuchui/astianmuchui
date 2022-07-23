@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
  ```shell
    astian@astian: ~$ sudo apt-get upgrade
    astian@astian: ~$ about me 
@@ -10,7 +10,7 @@
  Assume a spherical cow of uniform density ,
  While ignoring the effects of gravity in a vacuum.
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
+
   
   ```c++
     #include <Astian.h>

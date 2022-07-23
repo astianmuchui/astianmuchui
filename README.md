@@ -33,9 +33,6 @@
    ```
   
    
-
-
-     
   
  <table>
   <tr>
@@ -66,4 +63,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14483975/seb-astian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 
+### In the past week :
 
+[![Sebastian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)

@@ -42,6 +42,9 @@
   </tr>   
 </table>
   
+#### Got started on WakaTime recently , Lets see how this goes     
+[![Sebastian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
    ```shell
      Is it good? Not for me to say. Can it be better? Sure , it can be better , And thats my job , to make it better .
    ```
@@ -63,6 +66,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14483975/seb-astian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 
-### In the past week :
-
-[![Sebastian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)

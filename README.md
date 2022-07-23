@@ -8,10 +8,6 @@
     . Passionate about tech in general 
  ```
  
- ```python
- Assume a spherical cow of uniform density ,
- While ignoring the effects of gravity in a vacuum.
-```
 
   
   ```c++

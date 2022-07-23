@@ -35,12 +35,13 @@
 
      
   
-  <table>
-    <tr>
-      <td>  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=merko&hide_border=true&count_private=true"></td>
-      <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=merko&hide_border=true&count_private=true"></td>
-    </tr>
-  </table>
+ <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=merko"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=merko"/></td>
+  
+  </tr>   
+</table>
   
    ```shell
      Is it good? Not for me to say. Can it be better? Sure , it can be better , And thats my job , to make it better .

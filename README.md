@@ -6,6 +6,10 @@
     . Im Always here 
     . Passionate about tech in general 
  ```
+ ```python
+ Assume a spherical cow of uniform density ,
+ While ignoring the effects of gravity in a vacuum.
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
   
   ```c++
@@ -37,8 +41,8 @@
   
  <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr"&hide_border=true/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=github-dark"&hide_border=true"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=gotham"&hide_border=true/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=gotham"&hide_border=true"/></td>
   
   </tr>   
 </table>
@@ -64,7 +68,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14483975/seb-astian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 
-```
- Quotes
- . Knowing isn't enough, we must apply. Being willing isn't enough , we must do ~ Leonardo Da vinci
-```
+

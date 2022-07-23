@@ -45,7 +45,14 @@
 #### Got started on WakaTime recently , Lets see how this goes     
 [![Sebastian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-   <img src="https://wakatime.com/share/@astianmuchui/f0acafa6-5918-4ba8-9077-347c2e7ade80.svg">
+
+  
+   <table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@astianmuchui/67ed35c2-b51b-4de8-b1e8-bd217fe22083.png" /></td>
+  
+  </tr>   
+</table>
   
    ```shell
      Is it good? Not for me to say. Can it be better? Sure , it can be better , And thats my job , to make it better .

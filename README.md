@@ -38,7 +38,7 @@
  <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr"&hide_border=true/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com&hide_border=true/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=github-dark"&hide_border=true"/></td>
   
   </tr>   
 </table>

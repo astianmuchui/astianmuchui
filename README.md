@@ -17,11 +17,11 @@
     int main(){
       bool cool = false;
       char email = "sebastianmuchui79@gmail.com";
-      string favlanguages[4] = {"C","C++","PHP","Python"};
+      String favlanguages[4] = {"C","C++","PHP","Python"};
       bool hobbyist = true;
-      string favProjects[5] = {"Talkit","MD-1507","Robocar","Obstacle-avoider","audConv"};
-      string joke = "What is the object oriented way of getting rich? Inheritance";
-      string location = "Kenya";
+      String favProjects[5] = {"Talkit","MD-1507","Robocar","Obstacle-avoider","audConv"};
+      String joke = "What is the object oriented way of getting rich? Inheritance";
+      String location = "Kenya";
       bool WantsToCollaborate = true;
     }
    ```

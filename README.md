@@ -43,9 +43,6 @@
   </tr>   
 </table>
   
-#### Got started on WakaTime recently , Lets see how this goes     
-[![Sebastian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 
   
    ```shell

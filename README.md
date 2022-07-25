@@ -1,4 +1,4 @@
-tu<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
 
  ```shell
    astian@astian: ~$ sudo apt-get upgrade

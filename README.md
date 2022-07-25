@@ -2,7 +2,7 @@
 
  ```shell
    astian@astian: ~$ sudo apt-get upgrade
-   astian@astian: ~$ about me 
+   astian@astian: ~$ aboutme 
     . I do a little bit of this and a little bit of that
     . Im Always here 
     . Passionate about tech in general 

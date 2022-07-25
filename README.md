@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
+tu<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
 
  ```shell
    astian@astian: ~$ sudo apt-get upgrade
@@ -37,7 +37,7 @@
   
  <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=gotham"&hide_border=true/></td>
+      <!-- <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=gotham"&hide_border=true/></td> -->
     <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=gotham"&hide_border=true"/></td>
   
   </tr>   

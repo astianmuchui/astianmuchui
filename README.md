@@ -27,9 +27,10 @@
     }
    ```
    
-![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=eb5534&line=eb5534&point=none&color=eb5534&hide_border=true)  
+[![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=dracula)](https://github.com/astianmuchui/github-readme-activity-graph)
 
-   ```sh
+
+  ```shell
     Did you know? There are 2 types of people , those who know hexadecimal and 15 others
    ```
   

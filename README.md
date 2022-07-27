@@ -27,7 +27,7 @@
     }
    ```
    
-[![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=dracula&bg=000&line=2fa4e7&point=none)](https://github.com/astianmuchui/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=react-dark&bg=000&line=2fa4e7&point=none)](https://github.com/astianmuchui/github-readme-activity-graph)
 
 
   ```shell

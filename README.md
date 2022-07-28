@@ -38,10 +38,10 @@
   
  <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=gotham&hide_border=true/></td> 
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true/></td>
-  
-  </tr>   
+      
+  </tr>  <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=gotham"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=gotham"/></td>
+   
 </table>
   
 

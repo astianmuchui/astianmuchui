@@ -27,9 +27,10 @@
     }
    ```
    
-![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=github&hide_border=true&bg_color=000area_color=eb5534&line=eb5534&point=none&color=eb5534&hide_border=true)  
+[![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=react-dark&bg=000&line=2fa4e7&point=none)](https://github.com/astianmuchui/github-readme-activity-graph)
 
-   ```shell
+
+  ```shell
     Did you know? There are 2 types of people , those who know hexadecimal and 15 others
    ```
   
@@ -37,14 +38,16 @@
   
  <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=gotham"&hide_border=true/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=gotham"&hide_border=true"/></td>
-  
-  </tr>   
+      
+  </tr>  <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&theme=gotham"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=gotham"/></td>
+   
 </table>
   
 
- 
+```shell
+  Focus on signal over noise
+```
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
  

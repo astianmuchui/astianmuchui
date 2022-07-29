@@ -5,8 +5,7 @@
    astian@astian: ~$ aboutme 
     . I do a little bit of this and a little bit of that
     . Im Always here 
-    . Passionate about tech in general 
-    . Uplifting the developer community by supporting a few newbies.
+    . Passionate about tech 
  ```
  
 

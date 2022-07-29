@@ -10,21 +10,7 @@
  
 
   
-  ```c++
-    #include <Astian.h>
-    #include <iostream>
-    using namespace seb;
-    int main(){
-      bool cool = false;
-      char email = "sebastianmuchui79@gmail.com";
-      String favlanguages[4] = {"C","C++","PHP","Python"};
-      bool hobbyist = true;
-      String favProjects[5] = {"Talkit","MD-1507","Robocar","Obstacle-avoider","audConv"};
-      String joke = "What is the object oriented way of getting rich? Inheritance";
-      String location = "Kenya";
-      bool WantsToCollaborate = true;
-    }
-   ```
+
    
 [![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=react-dark&bg=000&line=2fa4e7&point=none)](https://github.com/astianmuchui/github-readme-activity-graph)
 

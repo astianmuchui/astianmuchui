@@ -5,7 +5,9 @@
 ```shell 
 ~$ whoami?
 . Sebastian Muchui
-. Passionate , Resourceful and Ready-to-learn individual
+. Passionate ,
+. Resourceful ,
+. Ready-to-learn
 ```
 
 ##### Reach Me 

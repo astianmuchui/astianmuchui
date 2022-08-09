@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
 
 ##### Allow me to introduce myself... 
 
@@ -20,9 +20,6 @@
 [![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=react-dark&bg=000&line=2fa4e7&point=none)](https://github.com/astianmuchui/github-readme-activity-graph)
 
 
-  ```shell
-    Did you know? There are 2 types of people , those who know hexadecimal and 15 others
-   ```
   
    
   

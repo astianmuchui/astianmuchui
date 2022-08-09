@@ -3,11 +3,17 @@
 ##### Allow me to introduce myself... 
 
 ```shell 
-~$ whoami?
+~$ who am i
 . Sebastian Muchui
-. Passionate ,
-. Resourceful ,
-. Ready-to-learn
+~$ what i do
+. A little bit of this 
+. A little bit of that
+~$ languages
+. Javascript
+. PHP
+. Python
+. C++
+. C 
 ```
 
 ##### Reach Me 

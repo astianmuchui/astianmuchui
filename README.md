@@ -32,14 +32,19 @@
   
    
   
- <table>
+<!--  <table>
   <tr>
       
   </tr>  <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=codeSTACKr"/></td>
     <td><img width="380px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=radical"/></td>
    
 </table>
-  
+ -->
+ <div display="inline-flex">
+   
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=codeSTACKr"/>
+<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=radical"/>
+  </div>
 
 
  ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)

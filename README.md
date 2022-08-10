@@ -42,8 +42,8 @@
  -->
  <div display="inline-flex" width="80%" justify-content="space-between">
    
-<img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=codeSTACKr"/>
-<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=radical"/>
+<img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=gotham"/>
+<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=gotham"/>
   </div>
 
 

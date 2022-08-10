@@ -1,13 +1,19 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=eb5534&style=flat" alt="astianmuchui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
 
 ##### Allow me to introduce myself... 
 
 ```shell 
-~$ whoami?
+~$ who am i
 . Sebastian Muchui
-. Passionate ,
-. Resourceful ,
-. Ready-to-learn
+~$ what i do
+. A little bit of this 
+. A little bit of that
+~$ languages
+. Javascript
+. PHP
+. Python
+. C++
+. C 
 ```
 
 ##### Reach Me 
@@ -20,17 +26,14 @@
 [![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=react-dark&bg=000&line=2fa4e7&point=none)](https://github.com/astianmuchui/github-readme-activity-graph)
 
 
-  ```shell
-    Did you know? There are 2 types of people , those who know hexadecimal and 15 others
-   ```
   
    
   
  <table>
   <tr>
       
-  </tr>  <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&theme=gotham"/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&locale=en&layout=compact&theme=gotham"/></td>
+  </tr>  <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/></td>
    
 </table>
   

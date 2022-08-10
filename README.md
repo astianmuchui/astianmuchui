@@ -14,7 +14,10 @@
 . Python
 . C++
 . C 
-
+~$ interests
+. Cybersecurity
+. Robotics
+. Machine learning & AI
 ```
 
 ##### Reach Me 💻 

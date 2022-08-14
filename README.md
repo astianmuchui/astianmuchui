@@ -44,7 +44,7 @@
  <div display="inline-flex" width="80%" justify-content="space-between">
    
 <img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=github_dark"/>
-<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=gotham"/>
+<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=github-dark"/>
   </div>
 
 

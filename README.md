@@ -27,8 +27,6 @@
 ##### And other platforms @astianmuchui  
 
    
-[![](https://activity-graph.herokuapp.com/graph?username=astianmuchui&theme=react-dark&hide_border=true&bg=000&line=2fa4e7&point=none)](https://github.com/astianmuchui/github-readme-activity-graph)
-
 
   
    
@@ -43,8 +41,8 @@
  -->
  <div display="inline-flex" width="80%" justify-content="space-between">
    
-<img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
+<img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
+<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=radical"/>
   </div>
 
 

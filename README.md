@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="astianmuchui" /> </p>
 
-```
-  In this world, Everything is governed by balance
-```
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 

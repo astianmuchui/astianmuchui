@@ -10,7 +10,9 @@
 
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=2fa4e7&locale=en&layout=compact&theme=gotham"/>
 </div>
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&bg_color=000000&color=005cb3&line=00becc&point=003d52&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
  

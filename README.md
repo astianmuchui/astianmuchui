@@ -7,9 +7,9 @@
 
 <div display="inline-flex" width="80%" justify-content="space-between">
    
-<img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=false&count_private=true&theme=gotham"/>
+<img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=false&count_private=true&theme=radical"/>
 
-<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=gotham"/>
+<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=radical"/>
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=astianmuchui&bg_color=000000&color=2fa4e7&line=00becc&point=none&area=true&area_color=2fa4e7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

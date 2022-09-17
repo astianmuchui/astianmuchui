@@ -9,9 +9,9 @@
 <img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=false&border_color=2fa4e7&count_private=true&theme=github_dark"/>
 
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=github-dark"/>
- </div>
- 
-![](https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+</div>
 
-<figure><embed src="https://wakatime.com/share/@astianmuchui/cd9adea9-ac37-4b9e-ac1d-459a96a75402.svg"></embed></figure>
+![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
+ 
+![](https://wakatime.com/share/@astianmuchui/cd9adea9-ac37-4b9e-ac1d-459a96a75402.svg)

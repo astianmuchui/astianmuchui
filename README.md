@@ -21,6 +21,6 @@
 
 <div display="inline-flex" width="80%" justify-content="space-between">
   
-<img width="600px" src="https://wakatime.com/share/@astianmuchui/04da3333-da8a-4a4e-bc9d-deef7e8cc885.svg" />
+<img width="610px" src="https://wakatime.com/share/@astianmuchui/04da3333-da8a-4a4e-bc9d-deef7e8cc885.svg" />
 
 </div>

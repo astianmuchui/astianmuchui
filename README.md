@@ -18,5 +18,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
 
-<img width="580px" src="https://wakatime.com/share/@astianmuchui/82579ba1-75c0-45bd-9c7a-639d2d96b065.png" />
-<img width="420px" src="https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&layout=compact&theme=github_dark" />
+<img width="600px" src="https://wakatime.com/share/@astianmuchui/82579ba1-75c0-45bd-9c7a-639d2d96b065.png" />

@@ -20,5 +20,6 @@
 
 <img width="580px" src="https://wakatime.com/share/@astianmuchui/82579ba1-75c0-45bd-9c7a-639d2d96b065.png" />
 
-
+[![ wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui)](https://github.com/astianmuchui/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=github-dark)](https://github.com/astianmuchui/github-readme-stats)
 

@@ -20,9 +20,8 @@
 
 
 <div display="inline-flex" width="80%" justify-content="space-between">
-  
-<img width="550px" src="https://wakatime.com/share/@astianmuchui/82579ba1-75c0-45bd-9c7a-639d2d96b065.png" />
-   
+ 
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=18" />   
 <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&theme=github_dark&layout=compact" />
 
 </div>

@@ -20,8 +20,7 @@
 
 
 <div display="inline-flex" width="80%" justify-content="space-between">
- 
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&layout=compact&theme=github_dark&langs_count=18" />   
+  
 <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&theme=github_dark&layout=compact" />
 
 </div>

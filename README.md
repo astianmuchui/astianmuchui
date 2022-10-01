@@ -1,4 +1,4 @@
-#### Hide not your skills , they for use you acquired
+#### Perception, Is reality
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
 <div display="inline-flex" width="80%" justify-content="space-between">

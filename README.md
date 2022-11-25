@@ -1,4 +1,16 @@
-
+###
+```shell
+astian@github:~$ whoami
+. Sebastian Muchui
+. Student of life for life
+astian@github:~$ whatido
+. Write code
+. Mess with electronics
+. Play around with terminals
+. Ask people if they can see my screen
+. Ask other people to share their screen
+astian@github:~$ 
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
 <div display="inline-flex" width="80%" justify-content="space-between">
@@ -18,3 +30,6 @@
 
 <img width="560px" src="https://wakatime.com/share/@astianmuchui/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
 
+## Worthy Mentions 
+### Top 100 in Kenya's Most active github users
+<a href="commits.top/kenya.html">See it yourself</a>

@@ -1,5 +1,7 @@
-###
-```shell
+### Namastey
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
+
+```bash
 astian@github:~$ whoami
 . Sebastian Muchui
 . Student of life for life
@@ -7,11 +9,11 @@ astian@github:~$ whatido
 . Write code
 . Mess with electronics
 . Play around with terminals
-. Ask people if they can see my screen
-. Ask other people to share their screen
+. Ask people if they can see my screen 
+. Also Ask other people to share theirs
 astian@github:~$ 
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
+
 
 <div display="inline-flex" width="80%" justify-content="space-between">
    

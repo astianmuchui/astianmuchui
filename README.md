@@ -17,6 +17,8 @@ astian@github:~$ fav --projects
 . Autonomous robot
 astian@github:~$ fav --movie
 . Silicon valley
+astian@github:~$ fav --movie-quote
+. I'm a coder jared, So I'm gonna code
 astian@github:~$ facts
 . If you turn 113 you become a two-time teenager
 . There are two types of people.. Those who can exit vim and 15 others

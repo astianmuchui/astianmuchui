@@ -11,7 +11,16 @@ astian@github:~$ whatido
 . Play around with terminals
 . Ask people if they can see my screen 
 . Also Ask other people to share theirs
-astian@github:~$ 
+astian@github:~$ fav --projects
+. Pdf to audiobooks converter
+. Talkit
+. Autonomous robot
+astian@github:~$ fav --movie
+. Silicon valley
+astian@github:~$ facts
+. If you turn 113 you become a two-time teenager
+. There are two types of people.. Those who can exit vim and 15 others
+
 ```
 
 

@@ -32,4 +32,4 @@ astian@github:~$
 
 ## Worthy Mentions 
 ### Top 100 in Kenya's Most active github users
-<a href="commits.top/kenya.html">See it yourself</a>
+<a href="https://commits.top/kenya.html">See it yourself</a>

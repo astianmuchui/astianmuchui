@@ -12,7 +12,7 @@ astian@github:~$ whatido
 . Ask people if they can see my screen 
 . Also Ask other people to share theirs
 astian@github:~$ fav --projects
-. Pdf to audiobooks converter
+. Pdf to audiobook converter
 . Talkit
 . Autonomous robot
 astian@github:~$ fav --movie

@@ -45,6 +45,3 @@ astian@github:~$ facts
 
 <img width="560px" src="https://wakatime.com/share/@astianmuchui/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
 
-## Worthy Mentions 
-### Top 100 in Kenya's Most active github users
-<a href="https://commits.top/kenya.html">See it yourself</a>

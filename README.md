@@ -1,8 +1,8 @@
 ##### Hello there...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
-![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7)
-
+![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&border_color=000&bg_color=00030a)
+q
 ```bash
 astian@github:~$ whoami
 . Sebastian Muchui

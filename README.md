@@ -1,9 +1,9 @@
 ##### Hello there...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
-![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&border_color=000&bg_color=00030a)
 
-```bash
+
+```shell
 astian@github:~$ whoami
 . Sebastian Muchui
 . Student of life for life
@@ -34,6 +34,8 @@ astian@github:~$ facts
 
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=github-dark"/>
 </div>
+
+![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&border_color=000&bg_color=00030a)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 

@@ -1,8 +1,6 @@
 ##### Hello there.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
-
-
 ```shell
 astian@github:~$ whoami
 . Sebastian Muchui

@@ -34,7 +34,7 @@ astian@github:~$ facts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astianmuchui/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme_name=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)

@@ -44,3 +44,4 @@ astian@github:~$ facts
 
 <img width="560px" src="https://wakatime.com/share/@astianmuchui/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astianmuchui&theme=github_dark)

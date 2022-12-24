@@ -40,4 +40,6 @@ astian@github:~$ facts
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 
+### Since Jun 10 2022
+[![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
 <img width="560px" src="https://wakatime.com/share/@astianmuchui/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />

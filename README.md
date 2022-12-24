@@ -20,6 +20,10 @@ astian@github:~$ facts
 . There are two types of people.. Those who can exit vim and 15 others
 
 ```
+
+### Since Jun 10 2022
+[![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
+
 [![@astianmuchui's Holopin board](https://holopin.me/astianmuchui)](https://holopin.io/@astianmuchui)
 
 <div display="inline-flex" width="80%" justify-content="space-between">
@@ -40,6 +44,4 @@ astian@github:~$ facts
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 
-### Since Jun 10 2022
-[![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
 <img width="560px" src="https://wakatime.com/share/@astianmuchui/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />

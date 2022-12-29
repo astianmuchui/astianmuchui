@@ -1,4 +1,4 @@
-##
+##### If you don't know what you're doing, stop what you're doing
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
 ```sh
@@ -50,8 +50,3 @@ astian@github:~$ facts
 
 <img width="560px" src="https://wakatime.com/share/@astianmuchui/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
 
-###### Latest Tweet
-[![](https://gtce.itsvg.in/api?username=astianmuchui)](https://gtce.itsvg.in)
-
-###### Random Quotes
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)

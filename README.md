@@ -16,7 +16,6 @@ astian@github:~$ fav --projects
 . Talkit
 . Autonomous robot
 astian@github:~$ facts
-. If you turn 113 you become a two-time teenager
 . There are two types of people.. Those who can exit vim and 15 others
 
 ```
@@ -39,7 +38,7 @@ astian@github:~$ facts
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 [![button](https://kandi.openweaver.com/cnsmrrsrcs/favicon.svg)](https://kandi.openweaver.com/search/libraries?q=astianmuchui) 
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e7&color=2fa4e7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e7&color=2fa4e7)](https://github.com/asrianmuchui/github-readme-activity-graph)
 
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)

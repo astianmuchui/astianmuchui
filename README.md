@@ -28,7 +28,7 @@ astian@github:~$ facts
    
 <img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
 
-<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=radical"/>
+<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=radical"/>
 </div>
 
 ![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&bg_color=00030a&border_color=000000)

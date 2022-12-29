@@ -20,7 +20,7 @@ astian@github:~$ facts
 
 ```
 
-###### Since Jun 10 2022
+####### Since Jun 10 2022
 [![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
 
 [![@astianmuchui's Holopin board](https://holopin.me/astianmuchui)](https://holopin.io/@astianmuchui)
@@ -38,7 +38,7 @@ astian@github:~$ facts
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 [![button](https://kandi.openweaver.com/cnsmrrsrcs/favicon.svg)](https://kandi.openweaver.com/search/libraries?q=astianmuchui) 
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e7&color=2fa4e7)](https://github.com/asrianmuchui/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e6&color=2fa4e7)](https://github.com/asrianmuchui/github-readme-activity-graph)
 
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)

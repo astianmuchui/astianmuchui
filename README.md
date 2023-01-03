@@ -43,7 +43,7 @@ astian@github:~$ facts
 ![](https://github-profile-trophy.vercel.app/?username=astianmuchui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
  -->
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e6&color=2fa4e7)](https://github.com/asrianmuchui/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e6&color=2fa4e7&include_all_commits=true)](https://github.com/asrianmuchui/github-readme-activity-graph)
 
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)

@@ -1,5 +1,5 @@
 ###### In a world full of tech, its best to take part in building it.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Sebastian&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 ```sh
 astian@github:~$ whoami

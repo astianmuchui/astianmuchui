@@ -50,3 +50,4 @@ astian@github:~$ facts
 
 <img width="560px" src="https://wakatime.com/share/@astianmuchui/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
 
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=astianmuchui&theme=transparent&response=true&border=false&time=true&icon=default"/></a>

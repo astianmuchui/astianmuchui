@@ -33,9 +33,9 @@ astian@github:~$ facts
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
 </div>
 
-<!-- ![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&bg_color=00030a&border_color=000000) -->
+![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&bg_color=00030a&border_color=000000)
 
-[![committers.top badge](https://user-badge.committers.top/kenya/astianmuchui.svg)](https://user-badge.committers.top/kenya/astianmuchui)
+<!-- [![committers.top badge](https://user-badge.committers.top/kenya/astianmuchui.svg)](https://user-badge.committers.top/kenya/astianmuchui) -->
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/astianmuchui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/astianmuchui) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sebastianmuchui) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 

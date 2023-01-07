@@ -1,4 +1,5 @@
 ###### In a world full of tech, its best to take part in building it.
+
 [![](https://visitcount.itsvg.in/api?id=Sebastian&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 ```sh
@@ -28,7 +29,7 @@ astian@github:~$ facts
    
 <img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=radical&count_private=true"/>
 
-<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=radical"/>
+<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=radical"/>
 </div>
 
 ![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&bg_color=00030a&border_color=000000)
@@ -49,5 +50,3 @@ astian@github:~$ facts
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 
 <img width="560px" src="https://wakatime.com/share/@astianmuchui/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
-
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=astianmuchui&theme=transparent&response=true&border=false&time=true&icon=default"/></a>

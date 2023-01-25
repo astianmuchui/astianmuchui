@@ -12,8 +12,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/astianmuchui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/astianmuchui) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sebastianmuchui) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/astianmuchui) 
 
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e6&color=2fa4e7&include_all_commits=true)](https://github.com/asrianmuchui/github-readme-activity-graph)
-
+<!-- [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e6&color=2fa4e7&include_all_commits=true)](https://github.com/asrianmuchui/github-readme-activity-graph)
+ -->
+ 
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 

@@ -1,5 +1,5 @@
 ##### How about we forget common sense ?
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=plastic" alt="" /> </p>
 
 <div display="inline-flex" width="80%" justify-content="space-between">
    
@@ -18,4 +18,5 @@
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/astianmuchui/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 
-![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&bg_color=00030a&border_color=000000)
+<!-- ![commits.top ranking](https://iot.fbiego.com/api/v1/commits?user=astianmuchui&country=kenya&text_color=2fa4e7&bg_color=00030a&border_color=000000)
+ -->

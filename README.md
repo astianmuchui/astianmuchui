@@ -5,7 +5,7 @@
    
 <img width="380px" margin="40px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=github_dark&count_private=true"/>
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=github-dark"/>
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=github-dark"/>
 </div>
 
 

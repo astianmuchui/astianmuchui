@@ -5,10 +5,8 @@
    
 <img width="380px" margin="40px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
+<img width="401px" src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
 </div>
-
-
 
 
 <!-- [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&theme=github&bg_color=000000&hide_border=true&line=2fa4e6&color=2fa4e7&include_all_commits=true)](https://github.com/asrianmuchui/github-readme-activity-graph)

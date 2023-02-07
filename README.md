@@ -10,7 +10,7 @@
       Phone: +254 797 061 691
       SocialMedia: @astianmuchui 
       
-      WhatIDo: 
+      What I Do: 
          . Write Sass, PHP, Javascript, Python, Sometimes C/C++
          . Mess Around with electronics
          . Learn new stuff

@@ -13,6 +13,8 @@
          . Write Sass, PHP, Javascript, Python, Sometimes C/C++
          . Mess Around with electronics
          . Learn new stuff
+         
+   Feel free to reach me , I cannot wait to hear from you.
 ```
 
 <div display="inline-flex" width="80%" justify-content="space-between">

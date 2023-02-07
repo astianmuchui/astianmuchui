@@ -1,6 +1,20 @@
 ##### How about we forget common sense .....
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astianmuchui&label=Profile%20views&color=2fa4e7&style=plastic" alt="" /> </p>
 
+```sh
+   
+   Hello :) 
+      @Name: Sebastian Muchui Kamankura
+      @Email: sebastianmuchui79@gmail.com
+      @Phone: +254 797 061 691
+      @SocialMedia: @astianmuchui 
+      
+      @WhatIDo: 
+         . Write Sass, PHP, Javascript, Python, Sometimes C/C++
+         . Mess Around with electronics
+         . Learn new stuff
+```
+
 <div display="inline-flex" width="80%" justify-content="space-between">
    
 <img width="380px" margin="40px" src="https://github-readme-stats.vercel.app/api?username=astianmuchui&show_icons=true&hide_border=true&theme=radical&count_private=true"/>

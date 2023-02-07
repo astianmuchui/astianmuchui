@@ -4,12 +4,12 @@
 ```md
    
    Hello :) 
-      @Name: Sebastian Muchui Kamankura
-      @Email: sebastianmuchui79@gmail.com
-      @Phone: +254 797 061 691
-      @SocialMedia: @astianmuchui 
+      Name: Sebastian Muchui Kamankura
+      Email: sebastianmuchui79@gmail.com
+      Phone: +254 797 061 691
+      SocialMedia: @astianmuchui 
       
-      @WhatIDo: 
+      WhatIDo: 
          . Write Sass, PHP, Javascript, Python, Sometimes C/C++
          . Mess Around with electronics
          . Learn new stuff

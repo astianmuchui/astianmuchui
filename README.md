@@ -1,6 +1,6 @@
 ```md
    
-   Hello :) 
+   Hello 
    
       Name: Sebastian Muchui Kamankura
       Email: sebastianmuchui79@gmail.com
@@ -12,7 +12,7 @@
          . Mess Around with electronics
          . Learn new stuff
          
-   Feel free to reach me , I cannot wait to hear from you.
+ 
 
 ```
 

@@ -4,7 +4,7 @@
    
       Name: Sebastian Muchui Kamankura
       Email: sebastianmuchui79@gmail.com
-      Phone: +254 797 061 691
+      Phone: +254 797 061 691 || +254 102 380 914
       SocialMedia: @astianmuchui 
       
       What I Do: 

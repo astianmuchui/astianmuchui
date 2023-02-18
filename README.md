@@ -1,14 +1,19 @@
 ```shell
    
-   Hello :)
+   Hello you, yes you :)
    
       Name: Sebastian Muchui Kamankura
       Email: sebastianmuchui79@gmail.com
       Phone: +254 797 061 691 || +254 102 380 914
       SocialMedia: @astianmuchui 
       
+      Who I am:
+         Passionate coder and Hobbyist
+         Linux Enthusiast
+         Open Source lover
+         
       What I Do: 
-         . Write Sass, PHP, Javascript, Python, Sometimes C/C++
+         . Write Code
          . Mess Around with electronics
          . Learn new stuff
          . Mess with terminals

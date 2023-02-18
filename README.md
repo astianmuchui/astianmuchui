@@ -11,8 +11,21 @@
          . Write Sass, PHP, Javascript, Python, Sometimes C/C++
          . Mess Around with electronics
          . Learn new stuff
+         . Mess with terminals
          
- 
+      Tech Stack:
+         . Html
+         . CSS/SCSS
+         . Vanilla Javascript
+         . PHP 
+         . Mysql
+         . C/C++
+         . Python
+        
+      Learning: 
+         . SWE ALX Holberton
+         . Python Django
+         . Polishing my current stack
 
 ```
 

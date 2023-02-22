@@ -2,21 +2,21 @@
       
       // About Me
       
-      Name: Sebastian Muchui Kamankura
+      Name: Sebastian Muchui 
       Email: sebastianmuchui79@gmail.com
-      Phone: +254 797 061 691 || +254 102 380 914
-      SocialMedia: @astianmuchui 
+      Phone: +254 797 061 691 / +254 102 380 914
+      Social Media: @astianmuchui 
       
       Who I am:
-         Passionate coder and Hobbyist
-         Linux Enthusiast
-         Open Source lover
+        . Passionate coder and Hobbyist
+        . Linux Enthusiast
+        . Open Source lover
          
       What I Do: 
-         . Write Code
-         . Mess Around with electronics
-         . Learn new stuff
-         . Mess with terminals
+         . Develop Websites
+         . General Programming
+         . Electronics Assembly and Firmware Development
+         . Study Physics
          
       Tech Stack:
          . Html

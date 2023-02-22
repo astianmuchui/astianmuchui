@@ -28,7 +28,8 @@
          . Python
         
       Learning: 
-         . SWE ALX Holberton
+         . Bsc Control and Instrumentation - JKUAT
+         . Software Engineering - ALX Holberton
          . Python Django
          . Polishing my current stack
 

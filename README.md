@@ -26,6 +26,12 @@
          . Mysql
          . C/C++
          . Python
+
+       Operating Systems:
+         . Windows
+         . Ubuntu
+         . Kali Linux
+         . Manjaro
         
       Learning: 
          . Bsc Control and Instrumentation - JKUAT

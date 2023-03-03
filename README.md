@@ -1,6 +1,6 @@
-```shell
+```sh
       
-      // About Me
+      /* About Me */
       
       Name: Sebastian Muchui 
       Email: sebastianmuchui79@gmail.com

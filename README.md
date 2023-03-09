@@ -4,7 +4,7 @@
       
       Name: Sebastian Muchui 
       Email: sebastianmuchui79@gmail.com
-      Phone: +254 797 061 691 / +254 102 380 914
+      Phone: +254 797 061 691 
       Social Media: @astianmuchui 
       
       Who I am:

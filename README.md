@@ -1,44 +1,12 @@
-```sh
+```c
       
       /* About Me */
-      
-      Name: Sebastian Muchui 
-      Email: sebastianmuchui79@gmail.com
-      Phone: +254 797 061 691 
-      Social Media: @astianmuchui 
-      
-      Who I am:
-        . Passionate coder and Hobbyist
-        . Linux Enthusiast
-        . Open Source lover
-         
-      What I Do: 
-         . Develop Websites
-         . General Programming
-         . Electronics Assembly and Firmware Development
-         . Study Physics
-         
-      Tech Stack:
-         . Html
-         . CSS/SCSS
-         . Vanilla Javascript
-         . PHP 
-         . Mysql
-         . C/C++
-         . Python
-
-       Operating Systems:
-         . Windows
-         . Ubuntu
-         . Kali Linux
-         . Manjaro
-        
-      Learning: 
-         . Bsc Control and Instrumentation - JKUAT
-         . Software Engineering - ALX Holberton
-         . Python Django
-         . Polishing my current stack
-
+     /** 
+      * @name: Sebastian Muchui 
+      * @email: sebastianmuchui79@gmail.com
+      * @phone: +254 797 061 691 
+      * @socialMedia: @astianmuchui 
+     */
 ```
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/astianmuchui)

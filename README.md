@@ -1,7 +1,8 @@
 ```shell
       
-/* About Me */
-     
+About Me 
+
+
 * Name: Sebastian Muchui 
 * Email: sebastianmuchui79@gmail.com
 * Phone: +254 797 061 691 

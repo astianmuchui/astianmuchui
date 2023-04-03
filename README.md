@@ -1,4 +1,4 @@
-```shell
+```bash
       
 About Me 
 
@@ -7,7 +7,7 @@ About Me
 * Email: sebastianmuchui79@gmail.com
 * Phone: +254 797 061 691 
 * SocialMedia: @astianmuchui 
-     
+
 ```
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/astianmuchui)

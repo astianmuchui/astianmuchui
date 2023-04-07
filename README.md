@@ -1,10 +1,10 @@
 ```bash
-* Name: Sebastian Muchui 
-* Email: sebastianmuchui79@gmail.com
-* Phone: +254 797 061 691 
-* SocialMedia: @astianmuchui 
+Name: Sebastian Muchui 
+Email: sebastianmuchui79@gmail.com
+Phone: +254 797 061 691 
+SocialMedia: @astianmuchui 
 
-:)
+
 ```
       
 

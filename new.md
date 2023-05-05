@@ -16,7 +16,9 @@
 ####### Latest Tweet
 [![](https://gtce.itsvg.in/api?username=astianmuchui)](https://gtce.itsvg.in)
 
-##### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astianmuchui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+

@@ -8,9 +8,9 @@
 
 <div style="display: inline-flex;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="320px">
+  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="350px">
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=false" width="320px">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=false" width="350px">
 
 </div>
 
@@ -18,8 +18,8 @@
 
 
 <div style="display: inline-flex;">
-<img src="https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="320px">
-<img src="https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="320px">
+<img src="https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="350px">
+<img src="https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="350px">
 </div>
 
 

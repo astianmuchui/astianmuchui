@@ -1,16 +1,16 @@
 [![](https://visitcount.itsvg.in/api?id=astianmuchui&icon=2&color=9)](https://visitcount.itsvg.in)
 
 ```bash
-. Hello, My name is Sebastian.
+Hello, My name is Sebastian.
 ```
 
 ##### GitHub Stats:
 
 <div style="display: inline-flex;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="350px">
+  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=github-dark&hide_border=true&include_all_commits=true&count_private=true" width="350px">
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=false" width="350px">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=gihtub-dark&hide_border=true" width="350px">
 
 </div>
 

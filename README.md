@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=astianmuchui&icon=2&color=9)](https://visitcount.itsvg.in)
 
 ```bash
-Hello, My name is Sebastian.
+Hello, I am Sebastian.
 ```
 
 ##### GitHub Stats:

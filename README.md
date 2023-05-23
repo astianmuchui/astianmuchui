@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
 
 ```sh
-. Hello, I am Sebastian.
+. Hello, I am Sebastian Muchui.
 . Full Stack Web developer Django / php / scss / tailwind
 . IoT & Robotics Enthusiast
 ```

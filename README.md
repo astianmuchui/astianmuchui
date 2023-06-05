@@ -1,5 +1,4 @@
-
-[![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf) 
+[![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
 [![](https://visitcount.itsvg.in/api?id=astianmuchui&icon=2&color=9)](https://visitcount.itsvg.in)
 
 

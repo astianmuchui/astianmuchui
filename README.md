@@ -6,7 +6,7 @@
 Hello, I am Sebastian.
 ```
 
-##### GitHub Stats:
+<!-- ##### GitHub Stats:
 
 <div style="display: inline-flex;">
 
@@ -14,7 +14,7 @@ Hello, I am Sebastian.
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github_dark&hide_border=true" width="350px">
 
-</div>
+</div> -->
 
 <!-- [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=astianmuchui&bg_color=000000&color=999900&line=969900&point=none&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 

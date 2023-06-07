@@ -10,7 +10,7 @@ Hello, I am Sebastian.
 
 <div style="display: inline-flex;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" width="350px">
+  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="350px">
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github_dark&hide_border=true" width="350px">
 

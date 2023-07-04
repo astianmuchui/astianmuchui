@@ -1,7 +1,9 @@
 
 
 ```bash
-Hello, I am Sebastian.
+. Hello, I am Sebastian.
+. Full Stack Web developer Django / php / scss / tailwind
+. IoT & Robotics Enthusiast
 ```
 
 <!-- ##### GitHub Stats:

@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/kenya_private/USERNAME.svg)](https://user-badge.committers.top/kenya_private/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/kenya_private/astianmuchui.svg)](https://user-badge.committers.top/kenya_private/astianmuchui)
 
 ```bash
 . Hello, I am Sebastian.

@@ -1,6 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/kenya_private/astianmuchui.svg)](https://user-badge.committers.top/kenya_private/astianmuchui)
 
-```bash
+```sh
 . Hello, I am Sebastian.
 . Full Stack Web developer Django / php / scss / tailwind
 . IoT & Robotics Enthusiast

@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/kenya_private/astianmuchui.svg)](https://user-badge.committers.top/kenya_private/astianmuchui)
-[![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
 
 ```sh
 . Hello, I am Sebastian Muchui.

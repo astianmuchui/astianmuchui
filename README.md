@@ -1,7 +1,7 @@
 
 ```sh
 . Hello, I am Sebastian Muchui.
-. Full Stack Web developer Django / php / scss / tailwind
+. Full Stack Web developer
 . IoT & Robotics Enthusiast
 ```
 

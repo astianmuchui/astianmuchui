@@ -1,5 +1,5 @@
 
-```sh
+```shell
 . Hello, I am Sebastian Muchui.
 . Full Stack Web developer
 . IoT & Robotics Enthusiast

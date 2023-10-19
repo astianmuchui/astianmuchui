@@ -2,7 +2,8 @@
 ```shell
 . Hello, I am Sebastian Muchui.
 . Full Stack Web developer
-. IoT & Robotics Dev
+. IoT & Robotics
+. Linux
 ```
 
 ### Reach Out

@@ -20,7 +20,8 @@ Contacts:
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: inline-flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true" style="width: 400px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="width: 400px;">
 
+</div>

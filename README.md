@@ -32,3 +32,7 @@ Contacts:
 <br>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@astianmuchui/37330275-52b0-477a-a3bb-81cd83b3532e.png" /></a>
+
+<br>
+
+![Metrics](https://metrics.lecoq.io/astianmuchui?template=terminal&lines=1&habits=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=8&config.timezone=Africa%2FNairobi)

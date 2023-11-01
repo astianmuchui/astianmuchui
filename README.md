@@ -21,9 +21,14 @@ Contacts:
 ### Stats
 
 <div style="display: inline-flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true" style="width: 400px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="width: 400px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true" style="width: 420px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="width: 420px;">
 
 </div>
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astianmuchui&bg_color=000105&color=922d1c&line=9e2000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astianmuchui&bg_color=transparent&color=922d1c&line=9e2000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@astianmuchui/37330275-52b0-477a-a3bb-81cd83b3532e.png" /></a>

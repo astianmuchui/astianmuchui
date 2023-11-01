@@ -25,3 +25,5 @@ Contacts:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="width: 400px;">
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astianmuchui&bg_color=000105&color=922d1c&line=9e2000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

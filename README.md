@@ -25,19 +25,18 @@ Contacts:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 420px;">
 
 </div>
+
+<div style="display: inline-flex;">
+  <img src="https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="width: 420px;">
+  <img src="https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="width: 420px;">
+  
+</div>
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astianmuchui&bg_color=transparent&color=922d1c&line=9e2000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
-
-
-![](https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-<br>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@astianmuchui/37330275-52b0-477a-a3bb-81cd83b3532e.png" /></a>
 

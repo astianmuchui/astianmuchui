@@ -31,6 +31,14 @@ Contacts:
 
 <br>
 
+
+
+![](https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/astianmuchui/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<br>
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@astianmuchui/37330275-52b0-477a-a3bb-81cd83b3532e.png" /></a>
 
 <br>

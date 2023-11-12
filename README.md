@@ -9,8 +9,7 @@
 ```
 
 ```sh
-Contacts:
-  254797061691/254716590423
+Contacts
   astianmuchui@gmail.com
   @astianmuchui - everywhere else :)
 ```

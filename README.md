@@ -4,7 +4,7 @@
 
 ```shell
 . Hello, I am Sebastian Muchui.
-. Full Stack Web developer
+. Full Stack Software Engineer ( React/Laravel/Django )
 . IoT & Robotics
 . Linux
 
@@ -28,7 +28,7 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astianmuchui&bg_color=transparent&color=922d1c&line=9e2000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astianmuchui&bg_color=transparent&color=2fa4e7&line=2fa4e7&point=2fa4e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 

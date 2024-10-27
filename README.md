@@ -24,7 +24,6 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astianmuchui&bg_color=transparent&color=2fa4e7&line=2fa4e7&point=2fa4e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 

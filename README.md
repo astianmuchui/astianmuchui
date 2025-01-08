@@ -2,7 +2,8 @@
 
 ```shell
 . Software Engineer (python/php/js/go)
-. IoT & Robotics Developer
+. IoT and Robotics Hobbyist
+. Hardware Designer
 . Linux
 ```
 

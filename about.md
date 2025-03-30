@@ -5,7 +5,7 @@
 ```shell
 . Hello, I am Sebastian Muchui.
 . Full Stack Software Engineer ( React/Laravel/Django )
-. IoT and Robotics
+. IoT and Robotics Enthusiast
 . Linux
 
 ```

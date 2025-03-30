@@ -17,7 +17,7 @@
 
 <div style="display: inline-flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=astianmuchui&theme=github_dark&hide_border=true&include_all_commits=true" style="width: 420px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 420px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astianmuchui&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 410px;">
 
 </div>
 

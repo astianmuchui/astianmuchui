@@ -4,5 +4,4 @@
 . IoT and Robotics Developer
 . Control and Instrumentation Engineer
 . Linux Enthusiast
-. Quite the explorer when it comes to backend technologies :)
 ```

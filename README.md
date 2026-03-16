@@ -1,4 +1,4 @@
-
+```sh
 . Software Engineer
 . Control & Instrumentation Engineer
 . IoT & Robotics
@@ -6,3 +6,4 @@
 . Linux and Networking hobbyist
 
 Trying to build a homelab at [https://homelab.astianmuchui.space/]()
+```

@@ -6,4 +6,4 @@
 . Linux and Networking hobbyist
 ```
 
-Trying to build a homelab at [homelab.astianmuchui.space](url)
+Working on a <a href="https://homelab.astianmuchui.space">homelab</a>

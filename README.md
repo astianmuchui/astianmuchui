@@ -4,6 +4,6 @@
 . IoT & Robotics
 . Backend (Go .... Among other things)
 . Linux and Networking hobbyist
-
-Trying to build a homelab at [https://homelab.astianmuchui.space/]()
 ```
+
+Trying to build a homelab at [homelab.astianmuchui.space](url)

@@ -1,9 +1,10 @@
 ```sh
 . Software Engineer
 . Control & Instrumentation Engineer
-. IoT & Robotics
-. Backend (Go .... Among other things)
+. IoT & Robotics Dev
+. Backend (.py, .go, .php, .ts)
+. Learning Rust
 . Linux and Networking hobbyist
 ```
 
-Working on a <a href="https://homelab.astianmuchui.space">homelab</a>
+Building a <a href="https://homelab.astianmuchui.space">homelab</a>

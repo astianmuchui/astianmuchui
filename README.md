@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
+<a href="https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf"><img src="https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg" alt="Total time coded since Jun 10 2022" /></a>
 
 ```sh
 . Software Engineer

@@ -33,7 +33,6 @@ currently:
 | **Languages** | Python · Go · TypeScript · JavaScript · PHP · C / C++ · *learning Rust* |
 | **Hardware** | ESP32 · STM32 · Arduino · FreeRTOS · Circuit design · Firmware (C/C++) |
 | **Web** | React / Next.js · Node.js · Django · Laravel · SCSS |
-| **Protocols** | REST · WebSockets · MQTT · OCPP / OCPI |
 | **Infra** | Linux · Docker · Bash · GitHub Actions · GitLab CI · Cloudflare Tunnels |
 
 

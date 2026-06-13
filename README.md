@@ -12,7 +12,7 @@ uptime:       since Jun 10 2022
 
 roles:
   - Software Engineer
-  - Control & Instrumentation Engineer
+  - Control & Instrumentation 
   - IoT & Robotics Developer
   - Embedded / Firmware Tinkerer
   - Backend Dev  (.py · .go · .php · .ts)

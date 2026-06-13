@@ -7,7 +7,7 @@
 
 ```yaml
 location:     Nairobi, Kenya
-education:    BSc. Control & Instrumentation Eng. @ JKUAT
+education:    BSc. Control & Instrumentation. @ JKUAT
 uptime:       since Jun 10 2022
 
 roles:
